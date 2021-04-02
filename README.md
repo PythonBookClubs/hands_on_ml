@@ -1,1 +1,1 @@
-# hands_on_machine_learning
+# Code for Hands On Machine Learning with Scikit-learn, Keras & TensorFlow Bookclub
